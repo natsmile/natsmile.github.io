@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a53a024a.css",
-    "main.js": "/static/js/main.76018e79.js",
+    "main.css": "/static/css/main.102d2847.css",
+    "main.js": "/static/js/main.f5a8ae4e.js",
     "static/js/787.bc09ef90.chunk.js": "/static/js/787.bc09ef90.chunk.js",
     "static/media/blank-avatar-icon-35.png": "/static/media/blank-avatar-icon-35.76baa19a5365f52e2dfe.png",
     "static/media/instagram.png": "/static/media/instagram.650c5954be88c41ea944.png",
@@ -9,12 +9,13 @@
     "static/media/twitter.png": "/static/media/twitter.da5d9bdae849285d229f.png",
     "static/media/paypal.svg": "/static/media/paypal.7b1a01e7d5c697a5c96a5f59fc9eb187.svg",
     "index.html": "/index.html",
-    "main.a53a024a.css.map": "/static/css/main.a53a024a.css.map",
-    "main.76018e79.js.map": "/static/js/main.76018e79.js.map",
+    "static/media/addImg.svg": "/static/media/addImg.b41333fffddc3685211c3148426fb128.svg",
+    "main.102d2847.css.map": "/static/css/main.102d2847.css.map",
+    "main.f5a8ae4e.js.map": "/static/js/main.f5a8ae4e.js.map",
     "787.bc09ef90.chunk.js.map": "/static/js/787.bc09ef90.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a53a024a.css",
-    "static/js/main.76018e79.js"
+    "static/css/main.102d2847.css",
+    "static/js/main.f5a8ae4e.js"
   ]
 }
