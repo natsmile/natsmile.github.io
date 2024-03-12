@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8ef80a7.css",
-    "main.js": "/static/js/main.f383abd1.js",
+    "main.css": "/static/css/main.d3699e52.css",
+    "main.js": "/static/js/main.ec7e80ea.js",
     "static/js/787.bc09ef90.chunk.js": "/static/js/787.bc09ef90.chunk.js",
     "static/media/blank-avatar-icon-35.png": "/static/media/blank-avatar-icon-35.76baa19a5365f52e2dfe.png",
+    "static/media/qrvenmo.jpg": "/static/media/qrvenmo.631c7a68486d70ae6091.jpg",
     "static/media/paypal.svg": "/static/media/paypal.7b1a01e7d5c697a5c96a5f59fc9eb187.svg",
+    "static/media/venmo-ar21.svg": "/static/media/venmo-ar21.2833591e67ef74ba1557b0805ce64697.svg",
     "static/media/removeIcon.svg": "/static/media/removeIcon.bb3969849736a3724b9e3058f447dfd3.svg",
     "index.html": "/index.html",
     "static/media/addImg.svg": "/static/media/addImg.b41333fffddc3685211c3148426fb128.svg",
-    "main.d8ef80a7.css.map": "/static/css/main.d8ef80a7.css.map",
-    "main.f383abd1.js.map": "/static/js/main.f383abd1.js.map",
+    "main.d3699e52.css.map": "/static/css/main.d3699e52.css.map",
+    "main.ec7e80ea.js.map": "/static/js/main.ec7e80ea.js.map",
     "787.bc09ef90.chunk.js.map": "/static/js/787.bc09ef90.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8ef80a7.css",
-    "static/js/main.f383abd1.js"
+    "static/css/main.d3699e52.css",
+    "static/js/main.ec7e80ea.js"
   ]
 }
